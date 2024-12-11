@@ -156,7 +156,7 @@ layers:
   - Ctl+ H
   - Ctl+ J
   - Ctl+ K
-  - Ctl+ (
+  - Ctl+ L
   - {t: ▽, type: trans}
   - '|'
   - {t: ▽, type: trans}
