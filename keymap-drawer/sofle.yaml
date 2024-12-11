@@ -154,7 +154,7 @@ layers:
   - $
   - '%'
   - Ctl+ H
-  - Ctl+ &
+  - Ctl+ J
   - Ctl+ K
   - Ctl+ (
   - {t: ▽, type: trans}
