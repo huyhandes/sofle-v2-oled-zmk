@@ -110,7 +110,7 @@ layers:
   - '#'
   - ^
   - $
-  - '~'
+  - \
   - ':'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -119,9 +119,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - '&'
-  - '|'
-  - '%'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   lower:
   - {t: ▽, type: trans}
   - F1
@@ -153,11 +153,11 @@ layers:
   - '#'
   - $
   - '%'
-  - ^
-  - '&'
-  - KP MULTIPLY
-  - (
-  - )
+  - Ctl+ H
+  - Ctl+ &
+  - Ctl+ K
+  - Ctl+ (
+  - {t: ▽, type: trans}
   - '|'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -167,11 +167,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '['
-  - ']'
+  - '&'
+  - '%'
   - ;
   - ':'
-  - \
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
