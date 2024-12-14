@@ -50,7 +50,7 @@ layers:
   - ','
   - .
   - /
-  - RSHFT
+  - {t: RSHFT, h: RCTRL}
   - LCTRL
   - LALT
   - LGUI
@@ -150,7 +150,7 @@ layers:
   - {t: ▽, type: trans}
   - Ctl+ A
   - Gui+ S
-  - Ctl+ D
+  - ^
   - $
   - '%'
   - Ctl+ H
